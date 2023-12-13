@@ -17,4 +17,5 @@ There are many different benefits to using ETL. The biggest one is the automatio
 
 How might ETL change when moving to the cloud?
 
-The switch to using the cloud when it comes to ETL is something that many companies are now doing. It has many benefits like on demand scalability. The process can easily scale up or down depending on the needs of the business. Another benefit of it is by distributing the work to different locations it can speed up processing time. There is also a lot of security that is provided by using the cloud.  
+The switch to using the cloud when it comes to ETL is something that many companies are now doing. It has many benefits like on demand scalability. The process can easily scale up or down depending on the needs of the business. Another benefit of it is by distributing the work to different locations it can speed up processing time. There is also a lot of security that is provided by using the cloud. There is 
+also a benefit when it comes to pricing when using the cloud as there are flexible price models available to the user.
